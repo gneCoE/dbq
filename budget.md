@@ -12,6 +12,6 @@
 |1|Lectures|5|700|3500|1 hour duration|
 |2|Tutorial/Hands on Practice|45|700|31500| 15 hours each for 3 groups|
 |3|Refreshment|-|-|5000||
-|4|Miscellaneous|||5000||  
-||**Total**|||45000||
+|4|Miscellaneous|||8000||  
+||**Total**|||48000||
 
