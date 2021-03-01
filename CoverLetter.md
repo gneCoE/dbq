@@ -29,8 +29,6 @@ Kindly refer the attached documents and the table below -
 Yours Sincerely  
 
 <br>  
-<br>  
-<br>
 
 Dr H S Rai   
 Course Co-ordinator  
