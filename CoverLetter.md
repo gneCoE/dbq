@@ -28,11 +28,13 @@ Course Co-ordinator
     
 Encl:  
 1. Approval Letter
-1. Activity Report  
-1. Contents  
-1. Banner Bill
-1. Stationary Bills
-1. Remuneration Bills
+2. Activity Report  
+4. Contents  
+5. List of Participants
+6. SDT Pictures
+7. Banner Bill
+8. Stationary Bills
+9. Remuneration Bills
 
 
 
