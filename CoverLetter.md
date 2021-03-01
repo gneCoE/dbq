@@ -14,18 +14,28 @@ This is to inform you that the Skill Development Training on "Efficient, Trackab
 onwards through online mode has successfully been concluded. It is therefore requested to you to release the remuneration amount and reimburse other bills.  
 Kindly refer the attached documents and the table below -  
 
-|   Sr. No.   |   Item    |   Amount    |           Remarks                |
+|  Name   |   Item    |   Amount    |           Remarks                |
 |   -------   |   ----    |   ------    |   -----------------------        |
-|      1      |   Banner  | Rs. 525.10  |   Paid in Cash (Bill Attached)   |
-|     2      |   Miscellaneous/Stationary  | Rs. 3326  |   Paid in Cash (Bills Attached)   |
+|      Dr H S Rai      |  Honorarium  | **Rs. 10500** |   Bill Attached  |
+|     Dr Daljeet Singh      |   Honorarium  | **Rs. 8400** |  Bill Attached  |
+|     Prof Shailja    |   Honorarium  | **Rs. 9100** |  Bill Attached  |
+|     Prof Yuvraj Singh      |   Honorarium  | Rs. 9100 |  Bill Attached  |
+|     Prof Yuvraj Singh     |   Banner Bill  | Rs. 525.10 |  Bill Attached (Paid in Cash)|
+|     Prof Yuvraj Singh     |   Stationary  | Rs. 3326|  Bills Attached (Paid in Cash) |
+|     Prof Yuvraj Singh     |   **Total**  | **Rs. 12951.1**| Total of above three items |
 
-Yours Sincerely   
-  
-  
-Dr H S Rai  
+
+<br>
+Yours Sincerely  
+
+<br>  
+<br>  
+
+Dr H S Rai 
+<br> 
 Course Co-ordinator  
   
-    
+ 
 Encl:  
 1. Approval Letter
 2. Activity Report  
