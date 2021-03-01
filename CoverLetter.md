@@ -30,9 +30,9 @@ Yours Sincerely
 
 <br>  
 <br>  
+<br>
 
-Dr H S Rai 
-<br> 
+Dr H S Rai   
 Course Co-ordinator  
   
  
