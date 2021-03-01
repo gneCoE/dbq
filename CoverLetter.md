@@ -17,6 +17,7 @@ Kindly refer the attached documents and the table below -
 |   Sr. No.   |   Item    |   Amount    |           Remarks                |
 |   -------   |   ----    |   ------    |   -----------------------        |
 |      1      |   Banner  | Rs. 525.10  |   Paid in Cash (Bill Attached)   |
+|     2      |   Miscellaneous/Stationary  | Rs. 3326  |   Paid in Cash (Bills Attached)   |
 
 Yours Sincerely   
   
@@ -30,6 +31,7 @@ Encl:
 1. Activity Report  
 1. Contents  
 1. Banner Bill
+1. Stationary Bills
 1. Remuneration Bills
 
 
