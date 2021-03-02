@@ -9,12 +9,12 @@ The course was self-paced and was conducted in asynchronous mode.
  - Evaluation of assigned tasks and replies to discussion was carried out round the clock.
  - The registered participants were divided into groups of 4, and were assigned to each of the four resource persons.
  - The discussions at the forum, task and its evaluation was equivalent to 12 hrs of tutorials for each group making a total of 48 hours.
- - Two live interactions were carried out in order to address the queries of the participants.
+ - A live interaction was carried out in order to address the queries of the participants.
  - Finally, the course concluded with a concluding lecture and a valedictory function.  
 
 | Name | Lectures | Tutorials | Remarks |
 | --- | --- | --- | --- |
-| Dr H S Rai | 3 hrs | 12 hrs | Introductory, Live interaction and Concluding Lecture|
+| Dr H S Rai | 3 hrs | 12 hrs | Introductory (Day 1), Live interaction (Day 3) and Concluding Lecture (Day 5)|
 | Prof Daljeet Singh | - | 12 hrs | - |
-| Prof Shailja | 1 hr | 12 hrs | Lecture on forking, clong and making changes  |
-| Prof Yuvraj Singh | 1 hr | 12 hrs | Lecture on Proposing Changes and Sending a Pull Request |
+| Prof Shailja | 1 hr | 12 hrs | Lecture on forking, clong and making changes (Day 2)  |
+| Prof Yuvraj Singh | 1 hr | 12 hrs | Lecture on Proposing Changes and Sending a Pull Request (Day 4) |
