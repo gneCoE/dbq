@@ -16,5 +16,5 @@ The course was self-paced and was conducted in asynchronous mode.
 | --- | --- | --- | --- |
 | Dr H S Rai | 3 hrs | 12 hrs | Introductory (Day 1), Live interaction (Day 3) and Concluding Lecture (Day 5)|
 | Prof Daljeet Singh | - | 12 hrs | - |
-| Prof Shailja | 1 hr | 12 hrs | Lecture on forking, clong and making changes (Day 2)  |
-| Prof Yuvraj Singh | 1 hr | 12 hrs | Lecture on Proposing Changes and Sending a Pull Request (Day 4) |
+| Prof Shailja | 1 hr | 12 hrs | Lecture on forking, cloning and making changes, etc. (Day 2)  |
+| Prof Yuvraj Singh | 1 hr | 12 hrs | Lecture on Proposing Changes and Sending a Pull Request, etc. (Day 4) |
