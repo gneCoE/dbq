@@ -1,5 +1,17 @@
 # Schedule
 
+The Skill Development Training on "Efficient, Trackable and Sustainable Workflow" was conducted from December 02 to 08, 2020.
+The course was self-paced and was conducted in asynchronous mode.  
+
+ - The event started with an Inaugural fuction and an Introductory Lecture.
+ - Followed by this, each day tasks were assigned based on the **Video** and **Read & Do** lectures. 
+ - Tutorials were held in the form of evaluation and discussions held at the forum each day.
+ - Evaluation of assigned tasks and replies to discussion was carried out round the clock.
+ - The registered participants were divided into groups of 4, and were assigned to each of the four resource persons.
+ - The discussions at the forum, task and its evaluation was equivalent to 12 hrs of tutorials for each group making a total of 48 hours.
+ - A live interaction was carried out in order to address the queries of the participants.
+ - Finally, the course concluded with a concluding lecture and a valedictory function.  
+
 | Day |Timings | Topic | Name of Resource Person | Remarks |
 | -- | -- | -- | -- | -- |
 | **Day 1** |10:00 am to 11:00 am |  Introductory Lecture | Dr H S Rai | 1 hour Lecture |
