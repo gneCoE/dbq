@@ -10,11 +10,11 @@
 |  |6:00 pm to 8:00 pm | Discussion and Task Evaluation  | Prof Daljeet Singh | 2 hour tutorial|
 | **Day 2** |10:00 am to 11:00 pm | Lecture on Workflow  | Dr H S Rai |  1 hour Lecture |
 |  |11:00 am to 1:00 pm | Tutorial on "forking and cloning" a repository  | Prof Shailja | 2 hour tutorial |
-|  |1:00 am to 3:00 pm | Lecture on "Let's break the ice to explore GitHub"  | Prof Yuvraj Singh | 1 hour lecture |
-|  |3:00 am to 5:00 pm | Tutorial - Discussion at Forum   | Prof Daljeet Singh | 2 hour tutorial |
-|  |5:00 am to 7:00 pm | Task - Quiz on GitHub and Task Evaluation  | Prof Yuvraj Singh | 2 hour tutorial |
-|  |7:00 pm to 9:00 pm |   Task Evaluation and Discussion at Forum   | Dr H S Rai |  2 hours tutorial |
-| | 7:00 pm to 9:00 pm |   Task Evaluation and Discussion at Forum   | Prof Shailja |  2 hours tutorial |
+|  |1:00 am to 2:00 pm | Lecture on "Let's break the ice to explore GitHub"  | Prof Yuvraj Singh | 1 hour lecture |
+|  |2:00 am to 4:00 pm | Tutorial - Discussion at Forum   | Prof Daljeet Singh | 2 hour tutorial |
+|  |4:00 am to 6:00 pm | Task - Quiz on GitHub and Task Evaluation  | Prof Yuvraj Singh | 2 hour tutorial |
+|  |6:00 pm to 8:00 pm |   Task Evaluation and Discussion at Forum   | Dr H S Rai |  2 hours tutorial |
+| | 6:00 pm to 8:00 pm |   Task Evaluation and Discussion at Forum   | Prof Shailja |  2 hours tutorial |
 | **Day 3** |10:00 am to 11:00 am | Publishing a GitHub Page  | Prof Yuvraj Singh | 1 hour Tutorial |
 |  |11:00 am to 12:00 pm |Time to Explore GitHub  | Prof Yuvraj Singh |  1 hour tutorial |
 |  |12:00 pm to 1:00 pm |   Lecture on Syncronising a forked repository    | Prof Shailja |  1 hours Lecture |
@@ -27,7 +27,7 @@
 |  |12:00 pm to 2:00 pm |   Discussion and Task Evaluation    | Prof Shailja |  2 hour tutorial |
 |  |2:00 pm to 4:00 pm | Discussion at forum  | Dr H S Rai | 2 hour tutorial|
 |  |4:00 pm to 7:00 pm | Quiz, Discussion and Task Evaluation  | Prof Daljeet Singh | 3 hour tutorial|
-| **Day 5** |10:00 am to 1:00 pm | Training End Quiz and Task Evaluation  | Dr H S Rai | 2 hour tutorial |
+| **Day 5** |10:00 am to 12:00 pm | Training End Quiz and Task Evaluation  | Dr H S Rai | 2 hour tutorial |
 |  |10:00 am to 12:00 pm |Training End Quiz and Task Evaluation  | Prof Yuvraj Singh |  2 hour tutorial |
 |  |10:00 am to 12:00 pm |  Training End Quiz and Task Evaluation    | Prof Shailja |  2 hour tutorial |
 |  |10:00 am to 12:00 pm |Training End Quiz and Task Evaluation | Prof Daljeet Singh |  2 hour tutorial |
