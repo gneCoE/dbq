@@ -9,8 +9,13 @@
 ### Course Content
 
 Keeping in view the success of Run-1 of the SDT and due to request of participants (other students and teachers), run-2 of the Skill
-Developmeny Training on "Efficient, Trackable and Sustainable Workflow" was conducted from December 30, 2020 to January 05, 2021
-with a different and  more sustaiable approach. To address the issues associated with poor workflow, and making sure that the computer resources are used
+Development Training on "Efficient, Trackable and Sustainable Workflow" was conducted from December 30, 2020 to January 05, 2021
+with a different and  more sustainable approach.
+
+The need of installing software was reduced to minimal, and all practice was done on the server, which also gave experience to participants to publish content in web-ready form.
+
+
+To address the issues associated with poor workflow, and making sure that the computer resources are used
 efficiently and with the provision to track changes, TEQIP-III sponsored skill development training on
 "Efficient, Trackable and Sustainable Workflow" was organised by Examination Branch of 
 Guru Nanak Dev Engineering College (GNDEC) in association with Departments of Civil Engineering 
@@ -23,9 +28,9 @@ who proposed the changes or who drafted what and who approved that, later any ti
 
 This one week training which was suitable for all professionals commenced from December 05, 2020 onwards on a self-paced mode. 
 The skill development training concluded successfully with a valedictory function. There was a diverse range of participants in 
-the course from the Principal of the institution, faculty members, students to non-teaching staff. In order to deliver the course 
+the course from the Senior faculty including HoDs, faculty members from all cadres, students to non-teaching staff. In order to deliver the course 
 content effectively and efficiently, an excellent learning platform and content management system called Moodle was used. 
-This platform enabled the partcipants to learn and attain hands on experience at their own pace. The training program also encouraged peer learning 
+This platform enabled the participants to learn and attain hands on experience at their own pace. The training program also encouraged peer learning 
 by discussing doubts among participants at the dedicated forum. Furthermore, keeping in view the changing scenario, the training program
 emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools.   
 
@@ -44,10 +49,12 @@ during the training program. One of the participants said that, if implemented, 
 step for the organisation to address issues related to effective management of documentation.
 
 As far as our institute is concerned, already a shift and a positive inclination towards this version control system can be seen in the college. 
-As a result of which we are also expecting release of latest College Newsletter through the use of GitHub.
+As a result of which we are also expecting the release of the latest College Newsletter through the use of GitHub.
 Organising team is excited to see how it goes and would happily extend help in every possible way to bring this revolutionary change.  
 
 <br>
 <br>
 
 #### Signature of Event Co-ordinator
+
+
