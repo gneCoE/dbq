@@ -8,7 +8,7 @@ The course was self-paced and was conducted in asynchronous mode.
  - Tutorials were held in the form of evaluation and discussions held at the forum each day.
  - Evaluation of assigned tasks and replies to discussion was carried out round the clock.
  - The registered participants were divided into groups of 3, and were assigned to each of the three resource persons.
- - The discussions at the forum, task and its evaluation was equivalent to 12 hrs of tutorials for each group making a total of 48 hours.
+ - The discussions at the forum, task and its evaluation was equivalent to 15 hrs of tutorials for each group making a total of 45 hours.
  - A live interaction was carried out in order to address the queries of the participants.
  - Finally, the course concluded with a concluding lecture and a valedictory function.  
 
@@ -31,7 +31,7 @@ The course was self-paced and was conducted in asynchronous mode.
 |  |11:00 am to 2:00 pm | Task Evaluation + Discussion at forum  | Dr H S Rai | 3 hour tutorial|
 |  |11:00 am to 2:00 pm | Task Evaluation + Discussion at forum  | Prof Yuvraj Singh | 3 hour tutorial|
 |  |11:00 am to 2:00 pm | Task Evaluation + Discussion at forum | Prof Shailja | 3 hour tutorial|
-| **Day 5** (05.01.2021) |10:00 am to 11:00 am |  GitHub Glossary + Training End Quiz + Evaluation | Prof Yuvraj Singh | 3 hour Tutorial|
+| **Day 5** (05.01.2021) |10:00 am to 1:00 pm |  GitHub Glossary + Training End Quiz + Evaluation | Prof Yuvraj Singh | 3 hour Tutorial|
 |  |11:00 am to 2:00 pm | Acticity - Crossword + Task Evaluation + Discussion at forum | Prof H S Rai | 3 hour tutorial|
 |  |11:00 am to 2:00 pm | Task Evaluation + Discussion at forum  | Prof Shailja | 3 hour tutorial|
 |  |3:00 to 4:00 pm | Valedictory + Concluding Lecture (Way FOrward)| Dr H S Rai | 1 hour Lecture|
