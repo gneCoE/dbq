@@ -11,15 +11,15 @@ Trackable and Sustainable Workflow" organised by Examination
 Branch of Guru Nanak Dev Engineering College (GNDEC) in association with
 Departments of Civil Engineering and Computer Science Engineering concluded successfully.
 
-![1](https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/4.jpg) 
+![1](https://yuvrajsingh2304.github.io/SDT/PressNote/Picture/4.jpg) 
 
             The organising team of SDT during the event
 
-<img title="" src="https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/1.jpeg" alt="2" width="577">
+<img title="" src="https://yuvrajsingh2304.github.io/SDT/PressNote/Picture/1.jpeg" alt="2" width="577">
 
          Principal Dr Sehijpal with Course Co-ordinator and Reviewer
 
-<img src="https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/5.jpg" title="" alt="valedictorypic" width="590">
+<img src="https://yuvrajsingh2304.github.io/SDT/PressNote/Picture/5.jpg" title="" alt="valedictorypic" width="590">
 
                    Glimpse of Online Valedictory Function
 
